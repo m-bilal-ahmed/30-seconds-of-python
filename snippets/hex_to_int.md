@@ -4,12 +4,9 @@ tags: math
 expertise: beginner
 firstSeen: 2022-10-02T05:00:00-04:00
 ---
-
-Explain briefly what the snippet does.
 Returns the decimal representation of the a hexadecimal number.
 - Explain briefly how the snippet works.
 - Use `hex_to_int()` to convert a given Hexadecimal number into its decimal equivalent.
-
 ```py
 def hex_to_int(hex):
     #taking the input for the hexa decimal number
@@ -37,7 +34,6 @@ hex = input()
 #taking the input for the hexa decimal number
 hex_to_int(hex)
 ```
-
 ```py
 hex_to_int(10) # 16
 hex_to_int(f) # 15
